@@ -1,0 +1,200 @@
+@-webkit-keyframes hah {
+	0% {
+		transform: scale(0.8);
+	}
+	50% {
+		transform: scale(1);
+	}
+	100% {
+		transform: scale(0.8);
+	}
+}
+
+.page3 {
+	position: relative;
+	display: none;
+}
+
+.page3_btn_start img {
+	width: 100%;
+	height: 100%;
+}
+
+.redbgleft {
+	width: 12.5rem;
+	height: 12.5rem;
+	border-radius: 50%;
+	background-color: #521521;
+	position: absolute;
+	left: -6rem;
+	top: 6rem;
+	opacity: 0.8;
+}
+
+.klvk4 {
+	width: 22.5rem;
+	height: 9.5rem;
+	position: absolute;
+	top: 20rem;
+	left: -1rem;
+}
+
+.left1 {
+	width: 3.2rem;
+	height: 3.2rem;
+	position: absolute;
+	bottom: 12rem;
+	left: 2rem;
+}
+
+.left1img {
+	width: 80%;
+	height: 80%;
+	margin-top: 13%;
+	margin-left: 10%;
+}
+
+.left2img {
+	width: 60%;
+	height: 70%;
+	margin-top: 13%;
+	margin-left: 20%;
+}
+
+.left3img {
+	width: 90%;
+	height: 80%;
+	margin-top: 13%;
+	margin-left: 10%;
+}
+
+.left4img {
+	width: 70%;
+	height: 70%;
+	margin-top: 13%;
+	margin-left: 18%;
+}
+
+.left2 {
+	width: 3.2rem;
+	height: 3.2rem;
+	position: absolute;
+	bottom: 12rem;
+	left: 8rem;
+}
+
+.left3 {
+	width: 3.2rem;
+	height: 3.2rem;
+	position: absolute;
+	bottom: 12rem;
+	left: 14rem;
+}
+
+.left4 {
+	width: 3.2rem;
+	height: 3.2rem;
+	position: absolute;
+	bottom: 12rem;
+	left: 20rem;
+}
+
+.left1left {
+	width: 7rem;
+	height: 8rem;
+	position: absolute;
+	top: 9rem;
+	left: 1rem;
+	display: none;
+}
+
+.left1rigth {
+	width: 14rem;
+	height: 10rem;
+	position: absolute;
+	left: 10.5rem;
+	top: 6.5rem;
+	display: none;
+}
+
+.left1red {
+	width: 20rem;
+	height: 5rem;
+	position: absolute;
+	top: 8rem;
+	left: 6rem;
+	display: none;
+}
+
+.left2left {
+	width: 7rem;
+	height: 11rem;
+	position: absolute;
+	top: 7rem;
+	left: 1rem;
+}
+
+.left2red {
+	width: 20rem;
+	height: 3rem;
+	position: absolute;
+	top: 8rem;
+	left: 6rem;
+	z-index: 55;
+}
+
+.left2rigth {
+	width: 11rem;
+	height: 6.5rem;
+	position: absolute;
+	left: 10.5rem;
+	top: 6.5rem;
+}
+
+.left3left {
+	width: 6rem;
+	height: 10rem;
+	position: absolute;
+	top: 6rem;
+	left: 2rem;
+}
+
+.left3rigth {
+	width: 11rem;
+	height: 10rem;
+	position: absolute;
+	left: 10.5rem;
+	top: 6.5rem;
+}
+
+.left4left {
+	width: 9rem;
+	height: 5rem;
+	position: absolute;
+	top: 10rem;
+	left: 1rem;
+}
+
+.left4rigth {
+	width: 11rem;
+	height: 6rem;
+	position: absolute;
+	left: 12rem;
+	top: 6.5rem;
+}
+
+.shan {
+	width: 3rem;
+	height: 3rem;
+	position: absolute;
+	top: 6.5rem;
+	left: 8.2rem;
+	z-index: 66;
+}
+
+.redshan {
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	animation: hah 1s infinite;
+}
